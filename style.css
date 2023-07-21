@@ -26,6 +26,7 @@ body{
     border-radius: 17px;
     text-align: center;
     margin: 0 1rem;
+    box-shadow: 0 2px 15px rgba(0,0,0,.1) ;
 }
 .card img{
     width: 100%;
